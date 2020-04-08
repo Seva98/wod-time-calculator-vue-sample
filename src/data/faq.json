@@ -1,0 +1,120 @@
+{
+    "Programming" : {
+        "id": "programming",
+        "items": [
+            {
+                "id": "what_is_rpe",
+                "title": "What is RPE?",
+                "body": [
+                    "RPE = Rating of Perceived Exertion",
+                    "RPE helps a lot with programming strength, cardio and other types of workouts",
+                    "For example, programming 3x3 deadlift is not enough as it doesn't have enough information",
+                    "If your 1 RM deadlift is 200 kg then 3x3 with 180 kg will feel like 8.5-9 RPE while 3x3 with 150 kg will feel like RPE 5",
+                    "As you can see there is a huge difference between different RPEs"
+                ],
+                "table": [ 
+                    ["<b>RPE</b>", "<b>Exertion</b>", "<b>Weight Training</b>", "<b>Cardio Training</b>", "<b>WODs/CrossFit</b>"],
+                    ["0-1", "Sitting or standing", "-", "-", "-"],
+                    ["2-3", "Everyday activity", "Empty barbell", "Walk", "Stretch"],
+                    ["4-4.5", "Warm up/pump set", "Warm up set", "Jog", "Warm up pace"],
+                    ["5-5.5", "Feels ok", "Before work set", "Recovery run", "Bad day WOD"],
+                    ["6-6.5", "Requires focus", "Everyday work set", "Everyday run", "Steady pace through full WOD"],
+                    ["7-7.5", "Feels heavy/difficult", "Strength for 3-4 more reps", "Uncomfortable pace", "Pushing hard at the end of WOD"],
+                    ["8", "Far from PR", "Strength for 2 more reps", "Highly uncomfortable pace", "Pushing hard in the 2nd half of WOD"],
+                    ["8.5", "Close to PR", "Strength for 1-2 more reps", "Pushing hard at close to PR pace", "Pushing hard for full WOD"],
+                    ["9", "Everyday PR, repeatable with long rest", "Everyday 98-100%", "Everyday PR", "Competition against friend"],
+                    ["9.5", "100% focus PR", "Perceived 100%", "Competition", "Competition WOD"],
+                    ["10", "Lifetime PR", "True 100% competition PR", "Competition PR", "CF Open/Finals WODs"]
+                ]
+            }
+        ]
+    },
+    "Payments" : {
+            "id": "payments",
+            "items": [
+                {
+                    "id": "payments_activate_premium",
+                    "title": "How to active premium?",
+                    "body": [
+                        "<a href='/#/login'>Create account, confirm email and login</a>",
+                        "Select membership on bottom of <a href='/#/premium'>Premium page</a>",
+                        "Follow PayPal instructions (some countries doesn't require to create PayPal account but WTC recommends to do so)",
+                        "Your premium status will be automatically renewed with every new payment"
+                    ]
+                },
+                {
+                    "id": "payments_cancel_with_acc",
+                    "title": "How to cancel payment? (if you have PayPal account)",
+                    "body": [
+                        "Log in to your PayPal account",
+                        "Click Settings near the top of the page",
+                        "Click Payments",
+                        "Click Manage pre-approved payments",
+                        "Click Cancel or Cancel automatic billing and follow the instructions"
+                    ]
+                },
+                {
+                    "id": "payments_cancel_without_acc",
+                    "title": "How to cancel payment? (if you don't have PayPal account)",
+                    "body": [
+                        "Log in to your WTC account",
+                        "Click <a href='/#/feedback/'>Feedback</a>",
+                        "Say you want to cancel premium account and click send",
+                        "If you no longer has access to WTC account, <a href='https://wodtimecalculator.com/blog/contact'>use this form</a> and specify as much as you can about your account so your reccuring payment can be found and stopped",
+                        "You can also contact PayPal directly and request payment cancellation, <a href='https://www.paypal.com/cz/smarthelp/article/how-do-i-cancel-a-recurring-payment,-subscription,-or-automatic-billing-agreement-i-have-with-a-merchant-faq1067'>more info here</a>"
+                    ]
+                }
+            ]
+    },
+    "Account" : {
+        "id": "account",
+        "items": [
+            {
+                "id": "account_create",
+                "title": "How to create user account?",
+                "body": [
+                    "<a href='/#/login'>Click Sign In button</a> on top of the page",
+                    "Click Register button on left side of card to switch to registration",
+                    "Fill in your email and password",
+                    "Confirm registeration by clicking right Register button",
+                    "Check your email for confirmation link",
+                    "Click confirmation link which redirects to the https://wodtimecalculator.com/#/confirm?token=$token$&tokenId=$tokenId$`",
+                    "After your email is confirmed <a href='/#/login'>login again</a>",
+                    "Finish account registration by setting up username and answering a few additional questions"
+                ]
+            },
+            {
+                "id": "account_change_pwd",
+                "title": "How to change password/retrieve lost password?",
+                "body": [
+                    "<a href='/#/login'>Click Sign In button</a> on top of the page",
+                    "Fill in your email address",
+                    "Click 'Reset password? (fill email first)'",
+                    "Check your email for reset password button",
+                    "Click reset password link which redirects to the https://wodtimecalculator.com/#/reset?token=$token$&tokenId=$tokenId$",
+                    "Create new password",
+                    "Confirm it by clicking on Set New Password button"
+                ]
+            },
+            {
+                "id": "account_change_username",
+                "title": "How to change your username?",
+                "body": [
+                    "Make sure you are logged in to your account",
+                    "Visit <a href='/#/profile'>your profile page</a>",
+                    "Click on pencil icon on Personal Information card",
+                    "Select new username and click Update button",
+                    "Wait for green button confirmation"
+                ]
+            },
+            {
+                "id": "account_delete",
+                "title": "How to delete your account?",
+                "body": [
+                    "Make sure you are logged in to your account",
+                    "Send a message using <a href='/#/feedback'>feedback tool</a> and your account will be manually deleted"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "deadlift": { 
+        "data": "eyJtZW4iOnsiMSI6MywiMyI6MywiMC45IjoyLCIxLjMiOjEsIjEuOSI6MTAsIjIuNSI6OCwiMy4yIjoyLCIxLjQiOjIwLCIzLjEiOjIsIjEuMSI6MTYsIjIuNCI6NSwiMi45IjoyLCIyLjMiOjQsIjIuOCI6MiwiMS44Ijo3LCIyLjciOjMsIjIuMiI6MywiMi42IjozLCIyLjEiOjUsIjEuNyI6NH0sIndvbWVuIjp7IjEiOjUsIjIiOjMsIjAuNiI6MTcsIjEuNSI6NiwiMi4yIjoyLCIyLjkiOjEsIjIuMSI6MywiMi44IjoxLCIyLjciOjEsIjEuNCI6NSwiMi42IjoxLCIwLjkiOjcsIjEuOSI6MywiMi40IjoyLCIxLjMiOjQsIjEuOCI6NSwiMi4zIjoxLCIxLjciOjQsIjEuMiI6NCwiMS42IjoyLCIwLjgiOjcsIjEuMSI6NSwiMC41IjoxfX0=",
+        "name": "Deadlift"
+    },
+    "power_clean": { 
+        "data": "eyJtZW4iOnsiMSI6NiwiMiI6MiwiMC42IjoxOSwiMC45IjoxMCwiMS4yIjo5LCIxLjYiOjYsIjIuMSI6MSwiMS41Ijo4LCIxLjkiOjIsIjEuOCI6MywiMS4xIjo3LCIxLjQiOjUsIjEuNyI6MywiMC44Ijo5LCIxLjMiOjV9LCJ3b21lbiI6eyIxIjo4LCIwLjUiOjEyLCIwLjciOjksIjEuNCI6MiwiMS43IjoxLCIxLjMiOjMsIjEuNiI6MSwiMC45Ijo5LCIxLjIiOjQsIjEuNSI6MiwiMC42Ijo5LCIxLjEiOjUsIjAuNCI6MTIsIjAuOCI6OH19",
+        "name": "Power Clean"
+    },
+    "squat_clean": { 
+        "data": "eyJtZW4iOnsiMSI6NCwiMiI6MiwiMC42IjoxLCIwLjkiOjE1LCIxLjIiOjEwLCIxLjYiOjcsIjIuMSI6MSwiMC43IjoxOCwiMS45IjoyLCIxLjUiOjcsIjEuOCI6MywiMS40Ijo2LCIxLjEiOjcsIjEuNyI6MywiMS4zIjo1LCIwLjgiOjR9LCJ3b21lbiI6eyIxIjo3LCIwLjYiOjEwLCIwLjgiOjEwLCIxLjEiOjYsIjEuNCI6MywiMS44IjoxLCIxLjMiOjMsIjEuNyI6MSwiMC41IjoxMiwiMC43Ijo5LCIxLjYiOjEsIjAuOSI6OSwiMS4yIjo0LCIxLjUiOjEsIjAuNCI6OH19",
+        "name": "Squat Clean"
+    },
+    "power_snatch": { 
+        "data": "eyJtZW4iOnsiMSI6NywiMC40IjoxOSwiMC42IjoxMywiMS40Ijo4LCIxLjkiOjIsIjAuNyI6NiwiMS44IjoyLCIxLjMiOjcsIjEuNyI6MiwiMC45Ijo4LCIxLjYiOjMsIjEuMiI6NSwiMS41IjoyLCIxLjEiOjUsIjAuOCI6Nn0sIndvbWVuIjp7IjEiOjUsIjAuNCI6MTMsIjAuNiI6MTAsIjAuOCI6OSwiMS4xIjoyLCIxLjQiOjEsIjAuNSI6MTIsIjEuMyI6MSwiMC4zIjoxNSwiMC43IjoxMCwiMS4yIjoyLCIwLjkiOjV9fQ==",
+        "name": "Power Snatch"
+    },
+    "squat_snatch": { 
+        "data": "eyJtZW4iOnsiMSI6OSwiMC40Ijo0LCIwLjciOjExLCIxLjQiOjYsIjEuOSI6MSwiMS44IjoyLCIxLjMiOjgsIjEuNyI6MiwiMC41IjoxNSwiMS42IjozLCIwLjkiOjgsIjEuMiI6NSwiMS41IjozLCIwLjYiOjgsIjEuMSI6NSwiMC44Ijo1fSwid29tZW4iOnsiMSI6NCwiMC40IjoxMiwiMC42IjoxMCwiMC45Ijo2LCIxLjIiOjIsIjEuNSI6MSwiMC44IjoxMCwiMS4xIjozLCIxLjQiOjEsIjAuMyI6MTUsIjAuNSI6MTEsIjEuMyI6MiwiMC43Ijo4fX0=",
+        "name": "Squat Snatch"
+    },
+    "back_squat": { 
+        "data": "eyJtZW4iOnsiMSI6OSwiMiI6NSwiMC43IjoyLCIxLjUiOjQsIjIuMSI6OCwiMi43IjozLCIxLjEiOjIsIjEuNiI6MTUsIjAuOCI6MywiMS4yIjoxNiwiMi42Ijo0LCIwLjkiOjYsIjIuNSI6MywiMi40IjozLCIxLjkiOjUsIjIuMyI6MywiMi4yIjozLCIxLjgiOjF9LCJ3b21lbiI6eyIxIjo1LCIyIjoyLCIwLjQiOjIsIjAuOCI6NywiMS4zIjo0LCIxLjkiOjIsIjIuNSI6MSwiMS4yIjo3LCIxLjgiOjMsIjIuNCI6MSwiMC41IjoxNSwiMS43Ijo0LCIyLjMiOjEsIjIuMiI6MSwiMS42Ijo1LCIyLjEiOjEsIjEuMSI6NCwiMS41Ijo0LCIwLjciOjEwLCIxLjQiOjMsIjAuOSI6M319",
+        "name": "Back Squat"
+    },
+    "front_squat": { 
+        "data": "eyJtZW4iOnsiMSI6MTQsIjIiOjMsIjAuNiI6MSwiMC45Ijo1LCIxLjMiOjExLCIxLjgiOjYsIjIuMyI6MSwiMC43IjoxNiwiMi4yIjozLCIxLjciOjgsIjIuMSI6MiwiMS42Ijo0LCIxLjkiOjMsIjAuOCI6MiwiMS4yIjo4LCIxLjUiOjUsIjEuNCI6M30sIndvbWVuIjp7IjEiOjYsIjIiOjEsIjAuNSI6MTEsIjAuOCI6OCwiMS4yIjo2LCIxLjYiOjIsIjIuMSI6MSwiMS4xIjo3LCIxLjUiOjMsIjEuNCI6NCwiMS44IjoxLCIwLjciOjgsIjEuNyI6MiwiMS4zIjo0LCIwLjkiOjYsIjAuNiI6NywiMC40Ijo4fX0=",
+        "name": "Front Squat"
+    },
+    "overhead_squat": { 
+        "data": "eyJtZW4iOnsiMSI6NiwiMiI6MywiMC4yIjoxLCIwLjUiOjgsIjEuNiI6NywiMi40IjoxLCIwLjMiOjQsIjAuNiI6MywiMS43IjoyLCIyLjMiOjMsIjEuMSI6MTMsIjAuNyI6MTUsIjIuMiI6MywiMC40Ijo3LCIyLjEiOjIsIjEuNSI6NiwiMS45Ijo0LCIxLjQiOjQsIjEuOCI6M30sIndvbWVuIjp7IjEiOjUsIjAuMyI6MTMsIjAuNiI6NywiMC45Ijo2LCIxLjMiOjMsIjEuOCI6MSwiMC41Ijo5LCIwLjgiOjgsIjEuMiI6NCwiMS43IjoxLCIxLjYiOjEsIjEuMSI6NCwiMS41IjoxLCIwLjciOjcsIjEuNCI6MSwiMC40IjoxMCwiMC4yIjo0fX0=",
+        "name": "Overhead Squat"
+    },
+    "bench_press": { 
+        "data": "eyJtZW4iOnsiMiI6NCwiMC41IjoyLCIwLjgiOjIsIjEuMSI6MSwiMS42Ijo5LCIyLjEiOjMsIjEuMiI6MTgsIjAuNiI6NCwiMC45IjoxNywiMC43IjoxMywiMS45Ijo0LCIxLjUiOjcsIjEuOCI6NCwiMS43Ijo0LCIxLjQiOjN9LCJ3b21lbiI6eyIxIjo1LCIwLjIiOjMsIjAuNSI6MTcsIjAuOCI6NiwiMS4zIjozLCIxLjgiOjEsIjEuMiI6NiwiMS43IjoxLCIxLjYiOjIsIjAuMyI6MTQsIjEuMSI6NiwiMS41IjoyLCIwLjciOjEwLCIxLjQiOjMsIjAuOSI6NSwiMC42IjoxfX0=",
+        "name": "Bench Press"
+    },
+    "shoulder_press": { 
+        "data": "eyJtZW4iOnsiMSI6MTAsIjAuMyI6MiwiMC41Ijo5LCIwLjgiOjE5LCIxLjEiOjksIjEuNCI6NSwiMC40IjoxMSwiMC42IjoxNiwiMS4zIjo2LCIxLjIiOjYsIjAuOSI6Mn0sIndvbWVuIjp7IjEiOjIsIjAuMiI6MTcsIjAuNCI6OCwiMC42IjoxMSwiMC45Ijo0LCIxLjIiOjEsIjAuOCI6OSwiMS4xIjozLCIwLjMiOjE0LCIwLjUiOjksIjAuNyI6N319",
+        "name": "Shoulder Press"
+    },
+    "push_press": { 
+        "data": "eyJtZW4iOnsiMSI6MTcsIjIiOjIsIjAuNCI6NCwiMC42IjoxLCIxLjUiOjcsIjAuNyI6MTgsIjEuOSI6MywiMS40Ijo2LCIwLjUiOjE1LCIxLjgiOjMsIjEuNyI6MywiMS4zIjo2LCIxLjYiOjQsIjEuMiI6NCwiMC45IjoyfSwid29tZW4iOnsiMSI6NCwiMC40IjoxMiwiMC42Ijo4LCIwLjkiOjgsIjEuMyI6MiwiMS43IjoxLCIxLjIiOjMsIjEuNSI6MSwiMC44Ijo3LCIxLjEiOjQsIjEuNCI6MiwiMC4zIjoxMywiMC41IjoxMCwiMC43IjoxMH19",
+        "name": "Push Press"
+    },
+    "push_jerk": { 
+        "data": "eyJtZW4iOnsiMSI6NCwiMiI6MywiMC41Ijo0LCIwLjgiOjE5LCIxLjEiOjE1LCIxLjYiOjcsIjIuMSI6MSwiMS41Ijo2LCIwLjYiOjE1LCIxLjkiOjIsIjEuOCI6MywiMS40Ijo2LCIxLjciOjQsIjEuMyI6Nn0sIndvbWVuIjp7IjEiOjcsIjAuNSI6MTMsIjAuNyI6OSwiMS4zIjoyLCIxLjciOjEsIjAuOSI6MTAsIjEuMiI6NSwiMS42IjoxLCIxLjUiOjEsIjAuNiI6MTAsIjEuMSI6NCwiMS40IjoyLCIwLjgiOjgsIjAuNCI6MTJ9fQ==",
+        "name": "Push Jerk"
+    },
+    "clean_and_jerk": { 
+        "data": "eyJtZW4iOnsiMSI6NSwiMiI6MiwiMC41IjoyLCIwLjgiOjE1LCIxLjIiOjksIjEuNyI6NSwiMi4yIjoxLCIyLjEiOjIsIjAuNiI6MTcsIjAuOSI6NCwiMS42Ijo2LCIxLjUiOjcsIjEuOSI6MiwiMS4xIjo3LCIxLjgiOjMsIjEuNCI6MywiMS4zIjo1fSwid29tZW4iOnsiMSI6NywiMC41IjoxMywiMC44IjoxMCwiMS4xIjo1LCIxLjUiOjMsIjEuOSI6MSwiMC43Ijo3LCIxLjQiOjIsIjEuNyI6MSwiMS4zIjozLCIxLjYiOjEsIjAuOSI6NywiMS4yIjo0LCIwLjYiOjksIjAuNCI6OSwiMC4zIjozfX0=",
+        "name": "Clean and Jerk"
+    },
+    "thruster": { 
+        "data": "eyJtZW4iOnsiMSI6OCwiMiI6MiwiMC4zIjoyLCIwLjYiOjE3LCIxLjUiOjYsIjIuMSI6MiwiMC40IjoxNywiMS40Ijo3LCIxLjkiOjEsIjAuNyI6MiwiMS44IjozLCIxLjMiOjQsIjAuOSI6OCwiMS43IjoyLCIxLjYiOjMsIjEuMiI6NSwiMC44IjozLCIxLjEiOjN9LCJ3b21lbiI6eyIxIjo1LCIwLjQiOjExLCIwLjYiOjcsIjAuOSI6OCwiMS4zIjozLCIxLjgiOjEsIjAuMyI6MTIsIjAuOCI6NywiMS4yIjoyLCIxLjYiOjEsIjAuNSI6MTAsIjEuMSI6NCwiMS41IjoxLCIxLjQiOjEsIjAuNyI6OCwiMC4yIjo0fX0=",
+        "name": "Thruster"
+    }
+}

@@ -1,0 +1,47 @@
+a {
+    text-decoration: none
+}
+
+li {
+    list-style-type: square;
+}
+
+.gray-text {
+    opacity: 0.7;
+}
+
+.red-color {
+    color: red !important;
+}
+
+.grey-color {
+    color: grey !important;
+}
+
+.weight-100 {
+    font-weight: 100;
+}
+
+.promo {
+    line-height: 1.5;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+    font-weight: 400;
+}
+
+.promo-description {
+    line-height: 1.5;
+    font-size: 15px;
+    letter-spacing: 0.02em;
+    font-weight: 400;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.promo-description > ul > li {
+    margin-bottom: 1rem;
+}
+
+.v-list__tile__title {
+    white-space: normal !important;
+}
